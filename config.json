@@ -1,0 +1,9 @@
+{
+  "max_price": 500000,
+  "rules": [
+    { "model": "macstudio", "title_regex": "M[45] (Max|Ultra)" },
+    { "model": "macmini", "title_regex": "M[45] Pro", "min_memory_gb": 48 },
+    { "model": "macbookpro", "title_regex": "M[45] Max" },
+    { "model": "macbookpro", "title_regex": "M[45] Pro", "min_memory_gb": 48 }
+  ]
+}
