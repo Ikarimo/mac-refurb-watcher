@@ -1,8 +1,40 @@
 {
  "matching": {
+  "G1FB3J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - シルバー",
+   "price": 397800
+  },
+  "G1FE3J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+   "price": 397800
+  },
+  "G1FB8J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
+   "price": 427800
+  },
+  "G1FE8J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+   "price": 427800
+  },
+  "G1FB4J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - シルバー",
+   "price": 443800
+  },
+  "G1FE4J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ - スペースブラック",
+   "price": 443800
+  },
   "G1MHEJ/A": {
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - シルバー",
    "price": 455800
+  },
+  "G1MLEJ/A": {
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ - スペースブラック",
+   "price": 455800
+  },
+  "G1FC2J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
+   "price": 471800
   },
   "FX2U3J/A": {
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
@@ -15,6 +47,18 @@
   "G1MHFJ/A": {
    "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - シルバー",
    "price": 478800
+  },
+  "G1MLFJ/A": {
+   "title": "14インチMacBook Pro [整備済製品] 15コアCPUと16コアGPUを搭載したApple M5 Proチップ、Nano-textureディスプレイ - スペースブラック",
+   "price": 478800
+  },
+  "G1MH6J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 18コアCPUと20コアGPUを搭載したApple M5 Proチップ - シルバー",
+   "price": 485800
+  },
+  "G1FF8J/A": {
+   "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、Nano-textureディスプレイ - スペースブラック",
+   "price": 494800
   }
  }
 }
