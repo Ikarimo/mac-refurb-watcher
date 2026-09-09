@@ -1,5 +1,13 @@
 {
  "matching": {
+  "G1KZDJ/A": {
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "price": 375800
+  },
+  "G1JV8J/A": {
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
+   "price": 420800
+  },
   "G1FB8J/A": {
    "title": "14インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - シルバー",
    "price": 427800
@@ -19,6 +27,10 @@
   "FX2Y3J/A": {
    "title": "16インチMacBook Pro [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ - スペースブラック",
    "price": 473800
+  },
+  "G1JVJJ/A": {
+   "title": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
+   "price": 482800
   }
  }
 }
